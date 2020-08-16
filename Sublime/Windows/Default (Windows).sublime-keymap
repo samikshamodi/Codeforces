@@ -1,0 +1,8 @@
+[
+		
+		{ "keys": ["ctrl+alt+c"], "command": "cancel_build" },
+		{
+        "keys": ["ctrl+alt+r"], "command": "astyleformat",
+        "context": [{"key": "astyleformat_is_enabled", "operator": "equal", "operand": ""}]
+    },
+]
