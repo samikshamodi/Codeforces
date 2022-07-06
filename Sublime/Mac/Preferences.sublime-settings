@@ -1,0 +1,10 @@
+{
+	"ignored_packages":
+	[
+		"CoolFormat",
+		"Vintage",
+	],
+	"font_size": 18,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"theme": "Material-Theme-Darker.sublime-theme",
+}
